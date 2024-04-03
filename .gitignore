@@ -85,37 +85,3 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-/.idea/.idea.natural_selection_game.dir/.idea/.gitignore
-/natural selection game/ProjectSettings/AudioManager.asset
-/natural selection game/ProjectSettings/ClusterInputManager.asset
-/natural selection game/ProjectSettings/DynamicsManager.asset
-/natural selection game/ProjectSettings/EditorBuildSettings.asset
-/natural selection game/ProjectSettings/EditorSettings.asset
-/natural selection game/.vscode/extensions.json
-/natural selection game/ProjectSettings/GraphicsSettings.asset
-/.idea/.idea.natural_selection_game.dir/.idea/indexLayout.xml
-/natural selection game/ProjectSettings/InputManager.asset
-/natural selection game/.vscode/launch.json
-/natural selection game/Packages/manifest.json
-/natural selection game/ProjectSettings/MemorySettings.asset
-/natural selection game/ProjectSettings/NavMeshAreas.asset
-/natural selection game/ProjectSettings/NetworkManager.asset
-/natural selection game/ProjectSettings/PackageManagerSettings.asset
-/natural selection game/Packages/packages-lock.json
-/natural selection game/ProjectSettings/Physics2DSettings.asset
-/natural selection game/ProjectSettings/PresetManager.asset
-/natural selection game/ProjectSettings/ProjectSettings.asset
-/natural selection game/ProjectSettings/ProjectVersion.txt
-/natural selection game/ProjectSettings/QualitySettings.asset
-/natural selection game/Assets/Scenes/SampleScene.unity
-/natural selection game/Assets/Scenes/SampleScene.unity.meta
-/natural selection game/Assets/Scenes.meta
-/natural selection game/.vscode/settings.json
-/natural selection game/ProjectSettings/TagManager.asset
-/natural selection game/ProjectSettings/TimeManager.asset
-/natural selection game/ProjectSettings/UnityConnectSettings.asset
-/.idea/.idea.natural_selection_game.dir/.idea/vcs.xml
-/natural selection game/ProjectSettings/VersionControlSettings.asset
-/natural selection game/ProjectSettings/VFXManager.asset
-/natural selection game/ProjectSettings/XRSettings.asset
-/тимофейреальнокрут.txt
